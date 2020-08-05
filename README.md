@@ -28,3 +28,15 @@ Build devices
   Service
   Test for performance and compatibility
   
+  
+  
+  
+  
+ Driver platforms and frameworks
+  
+ 
+     Kernel/Windows Driver Model
+            https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/
+
+     Windows Driver Frameworks
+            https://docs.microsoft.com/en-us/windows-hardware/drivers/wdf/
